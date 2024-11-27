@@ -1,0 +1,70 @@
+body{
+    background:#1560bd;
+}
+
+.container{
+    padding:80px;
+    margin: 20px;
+    color: lightblue;
+     
+}
+
+table{
+    color: saddlebrown;
+    text-align: center;
+    margin: 25px 0;
+    font-size: 1.9rem;
+    min-width: 1200px;
+    border: 10px solid lightblue;
+    border-collapse: separate;
+    border-spacing: 0 1rem;
+    border-radius: 15px;
+    font-family:cursive;
+}
+
+td{
+    text-align: center;
+   
+    padding: 25px;
+    font-size: 3.2rem;
+    font-weight: 200px;
+    color: lightblue;
+    border-collapse: collapse;
+}
+
+#editForm{
+    
+    font-size: 1.8rem;
+    color: #ace1af;
+}
+
+img{
+    width:200px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+form{
+    padding-top: 01em;
+}
+
+label{
+    margin-bottom: 10px;
+    padding: 16px;
+    font-weight: bold;
+    font-size: 15px;
+    width: 70px;
+    display: inline-block;
+}
+
+button{
+    margin-left: 10px;
+}
+
+.button{
+    text-align: center;
+}
+
+.btn-secondary{
+    background-color: #ace1af;
+}
